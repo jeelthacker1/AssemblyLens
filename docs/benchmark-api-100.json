@@ -1,0 +1,20 @@
+{
+  "date_utc": "2026-11-20T15:21:35Z",
+  "python": "3.13.3",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+  "opencv": "4.14.0",
+  "input": "synthetic colored rectangles; NOT photographed validation",
+  "mode": "HTTP camera frame ingestion",
+  "frames": 300,
+  "concurrency": 100,
+  "elapsed_seconds": 60.014126200003375,
+  "throughput_fps": 4.998823093753269,
+  "p50_ms": 7829.275150001195,
+  "p95_ms": 21232.650249994913,
+  "p99_ms": 22655.50376999876,
+  "errors": [],
+  "jpeg_bytes_example": 10620,
+  "production_accuracy": "not measured",
+  "notes": "No claim of 100-camera real-time capacity. Includes synthetic pixels only if explicitly selected."
+}

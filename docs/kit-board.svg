@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 1000 707">
+<rect width="1000" height="707" fill="white"/><rect x="4" y="4" width="992" height="699" fill="none" stroke="#222" stroke-width="2"/>
+<text x="50" y="75" font-family="Arial" font-size="30" fill="#222">AssemblyLens · physical training fixture</text>
+<text x="50" y="108" font-family="Arial" font-size="16" fill="#555">Place parts in order. Keep installed parts visible. Align camera frame to the whole board.</text>
+<g fill="none" stroke="#888" stroke-width="2" stroke-dasharray="10 8"><rect x="50" y="141.4" width="270" height="424.2"/><rect x="360" y="141.4" width="270" height="424.2"/><rect x="680" y="141.4" width="270" height="424.2"/></g>
+<g font-family="Arial" font-size="23" fill="#333"><text x="80" y="610">1 · RED BASE</text><text x="385" y="610">2 · GREEN BRACKET</text><text x="710" y="610">3 · BLUE CAP</text></g>
+<text x="50" y="665" font-family="Arial" font-size="16" fill="#555">Visual assistance only. This board is not a metrology standard or a safety inspection.</text>
+</svg>

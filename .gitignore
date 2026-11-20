@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/
+*.db
+*.onnx
+*.pt
+*.mp4
+*.jpg
+web/tsconfig.tsbuildinfo

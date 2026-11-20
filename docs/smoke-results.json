@@ -1,0 +1,10 @@
+{
+  "test": "running API + database + evidence store",
+  "pixels": "synthetic fixtures, not camera validation",
+  "correct_sequence": "passed",
+  "incorrect_order": "passed",
+  "photographs_retrieved": 3,
+  "human_decision_endpoint": "passed with explicit synthetic-test reason",
+  "serial": "SYNTHETIC-SMOKE-e41fe2fa",
+  "inspection_id": "793b443b-e295-44cb-9a4f-7adc72a82171"
+}

@@ -1,0 +1,20 @@
+{
+  "date_utc": "2026-11-20T07:58:52Z",
+  "python": "3.13.3",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+  "opencv": "4.14.0",
+  "input": "synthetic colored rectangles; NOT photographed validation",
+  "mode": "in-process OpenCV segmentation + QR/barcode",
+  "frames": 200,
+  "concurrency": 1,
+  "elapsed_seconds": 12.007673199999772,
+  "throughput_fps": 16.656016254673204,
+  "p50_ms": 59.88565000006929,
+  "p95_ms": 72.80882999921232,
+  "p99_ms": 82.27743100060245,
+  "errors": [],
+  "jpeg_bytes_example": 10620,
+  "production_accuracy": "not measured",
+  "notes": "No claim of 100-camera real-time capacity. Includes synthetic pixels only if explicitly selected."
+}
